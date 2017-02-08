@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Path Intersection Demo</string>
+
+    <string name="orange">ORANGE</string>
+    <string name="green">GREEN</string>
+    <string name="x">X:</string>
+    <string name="y">Y:</string>
+    <string name="label_paths_intersect">Paths intersect:</string>
+    <string name="paths_do_intersect">YES</string>
+    <string name="paths_do_not_intersect">NO</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo: Pfad-Überschneidung</string>
+
+    <string name="orange">ORANGE</string>
+    <string name="green">GRÜN</string>
+    <string name="x">X:</string>
+    <string name="y">Y:</string>
+    <string name="label_paths_intersect">Pfade schneiden sich:</string>
+    <string name="paths_do_intersect">JA</string>
+    <string name="paths_do_not_intersect">NEIN</string>
+</resources>
